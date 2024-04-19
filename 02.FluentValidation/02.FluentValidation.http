@@ -1,0 +1,6 @@
+@_02.FluentValidation_HostAddress = http://localhost:5111
+
+GET {{_02.FluentValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
